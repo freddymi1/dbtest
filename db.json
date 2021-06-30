@@ -102,7 +102,8 @@
             "lastName": "Michel",
             "email": "michelfreddy1992@gmail.com",
             "role": "Admin",
-            "password": "Test@123"
+            "username": "admin",
+            "password": "Admin123"
         },
         {
             "id": 2,
@@ -110,7 +111,20 @@
             "lastName": "Freddy",
             "email": "michelfreddys@gmail.com",
             "role": "Other",
-            "password": "Test@123"
+            "username": "Other",
+            "password": "Other123"
+        }
+    ],
+    "login": [
+        {
+            "email": "test@gmail.com",
+            "password": "Test@123",
+            "token": "bfdfsdfvsvfdsfdvfdvfs"
+        },
+        {
+            "email": "test123@gmail.com",
+            "password": "Test@123",
+            "token": "bfdfsdfvvcvsvfdsfdvfdvfs"
         }
     ]
 }
