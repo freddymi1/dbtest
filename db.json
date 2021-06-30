@@ -1,40 +1,53 @@
 {
     "task": [
         {
-            "tech": "Will Smith",
-            "status": "Approuver",
-            "task": "Tache 1"
+            "id": 1,
+            "designation": "Task 1",
+            "description": "Description du task 1",
+            "otherT1": "Autre titre du task 1",
+            "otherT2": "Autre titre du task 1.0"
         },
         {
-            "tech": "Jackline Joy",
-            "status": "Approuver",
-            "task": "tache 2"
+            "id": 2,
+            "designation": "Task 2",
+            "description": "Description du task 2",
+            "otherT1": "Autre titre du task 2",
+            "otherT2": "Autre titre du task 2.0"
         },
         {
-            "tech": "Alu Arjun",
-            "status": "Approuver",
-            "task": "Tache 3"
+            "id": 3,
+            "designation": "Task 3",
+            "description": "Description du task 3",
+            "otherT1": "Autre titre du task 3",
+            "otherT2": "Autre titre du task 3.0"
         },
         {
-            "tech": "Kavitha Kumar",
-            "status": "Approuver",
-            "task": "Tache 4",
-            "photo": "assets/avatar/4.jpg"
+            "id": 4,
+            "designation": "Task 4",
+            "description": "Description du task 4",
+            "otherT1": "Autre titre du task 4",
+            "otherT2": "Autre titre du task 4.0"
         },
         {
-            "tech": "John Snow",
-            "status": "Approuver",
-            "task": "tache 5"
+            "id": 5,
+            "designation": "Task 5",
+            "description": "Description du task 5",
+            "otherT1": "Autre titre du task 5",
+            "otherT2": "Autre titre du task 5.0"
         },
         {
-            "tech": "Priya kanana",
-            "status": "Approuver",
-            "task": "Tache 6"
+            "id": 1,
+            "designation": "Task 6",
+            "description": "Description du task 6",
+            "otherT1": "Autre titre du task 6",
+            "otherT2": "Autre titre du task 6.0"
         },
         {
-            "tech": "Shri Devi",
-            "status": "Approuver",
-            "task": "Tache 7"
+            "id": 7,
+            "designation": "Task 7",
+            "description": "Description du task 7",
+            "otherT1": "Autre titre du task 7",
+            "otherT2": "Autre titre du task 7.0"
         }
         
     ],
