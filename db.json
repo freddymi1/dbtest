@@ -1,143 +1,154 @@
 {
+    "technicien": [
+        {
+            "name": " N.H",
+            "lastname": "Freddy Michel",
+            "dateBirth": "1992-06-30",
+            "mobile": "0342124315",
+            "rue": "Tanjombato",
+            "ville": "Tana",
+            "pays": "Madagascar",
+            "email": "michelfreddy1992@gmail.com",
+            "id": 1
+        },
+        {
+            "name": "Mie Sam",
+            "lastname": "Raz",
+            "dateBirth": "1996-12-03",
+            "mobile": "0331224521",
+            "rue": "Tana",
+            "ville": "Pekin",
+            "pays": "Chine",
+            "email": "miesamraz@gmail.com",
+            "id": 2
+        },
+        {
+            "name": "Jessica",
+            "lastname": "Ramaroson",
+            "dateBirth": "1997-07-07",
+            "mobile": "0341224541",
+            "rue": "Tana",
+            "ville": "Tana",
+            "pays": "Mada",
+            "email": "jess@gmail.com",
+            "id": 3
+        },
+        {
+            "name": "Rakoto",
+            "lastname": "Be",
+            "dateBirth": "1995-05-03",
+            "mobile": "0321242541",
+            "rue": "Bira",
+            "ville": "Bira",
+            "pays": "Mada",
+            "email": "rakotobe@gmail.com",
+            "id": 4
+        },
+        {
+            "name": "Lita",
+            "lastname": "kely",
+            "dateBirth": "1995-12-06",
+            "mobile": "0331216541",
+            "rue": "Fianarantsoa",
+            "ville": "Fianaratsoa",
+            "pays": "Mada",
+            "email": "lita@yahoo.fr",
+            "id": 5
+        },
+        {
+            "name": "Balita",
+            "lastname": "Kely",
+            "dateBirth": "1990-04-05",
+            "mobile": "0394512451",
+            "rue": "Tana",
+            "ville": "Tana",
+            "pays": "Mada",
+            "email": "balita@yahoo.fr",
+            "id": 6
+        },
+        {
+            "name": "Sendra",
+            "lastname": "B",
+            "dateBirth": "1998-10-06",
+            "mobile": "0321214541",
+            "rue": "Mahajanga",
+            "ville": "Mahajanga",
+            "pays": "Mada",
+            "email": "sendra@hotmail.com",
+            "id": 7
+        },
+        {
+            "name": "Fetra",
+            "lastname": "Raj",
+            "dateBirth": "1990-10-03",
+            "mobile": "0331245741",
+            "rue": "Ambato",
+            "ville": "Tana",
+            "pays": "Mada",
+            "email": "fetra@gmail.com",
+            "id": 8
+        },
+        {
+            "name": "Feno",
+            "lastname": "Kely",
+            "dateBirth": "1992-01-03",
+            "mobile": "0341542114",
+            "rue": "Ambato",
+            "ville": "Tana",
+            "pays": "Mada",
+            "email": "fenok@gmail.com",
+            "id": 9
+        }
+    ],
     "task": [
         {
             "id": 1,
             "designation": "Task 1",
             "description": "Description du task 1",
-            "otherT1": "Autre titre du task 1",
-            "otherT2": "Autre titre du task 1.0"
+            "voiture": "4125WE 4x4",
+            "status": "A faire"
         },
         {
             "id": 2,
             "designation": "Task 2",
             "description": "Description du task 2",
-            "otherT1": "Autre titre du task 2",
-            "otherT2": "Autre titre du task 2.0"
+            "voiture": "4124BE 4x4",
+            "status": "En cours"
         },
         {
             "id": 3,
             "designation": "Task 3",
             "description": "Description du task 3",
-            "otherT1": "Autre titre du task 3",
-            "otherT2": "Autre titre du task 3.0"
+            "voiture": "4124BE Pigeot",
+            "status": "En cours"
         },
         {
             "id": 4,
             "designation": "Task 4",
             "description": "Description du task 4",
-            "otherT1": "Autre titre du task 4",
-            "otherT2": "Autre titre du task 4.0"
+            "voiture": "4104BE Pikup",
+            "status": "En cours"
         },
         {
             "id": 5,
             "designation": "Task 5",
             "description": "Description du task 5",
-            "otherT1": "Autre titre du task 5",
-            "otherT2": "Autre titre du task 5.0"
+            "voiture": "4012CEA Citroen",
+            "status": "Fait"
         },
         {
             "id": 6,
             "designation": "Task 6",
             "description": "Description du task 6",
-            "otherT1": "Autre titre du task 6",
-            "otherT2": "Autre titre du task 6.0"
+            "voiture": "4010CEA Starex",
+            "status": "Fait"
         },
         {
             "id": 7,
             "designation": "Task 7",
             "description": "Description du task 7",
-            "otherT1": "Autre titre du task 7",
-            "otherT2": "Autre titre du task 7.0"
-        }
-        
-    ],
-    "technicien": [
-        {
-            "id": 1,
-            "name": "Lita",
-            "lastname": "Kely",
-            "dateBirth": "30/02/1990",
-            "mobile": "0342145780",
-            "rue": "Tana",
-            "ville": "Tana",
-            "pays": "Madagascar",
-            "email": "litakely@gmail.com"
-        },
-        {
-            "id": 2,
-            "name": "Jean Bolida",
-            "lastname": "Kely",
-            "dateBirth": "30/02/1998",
-            "mobile": "0342145781",
-            "rue": "Tana",
-            "ville": "Tana",
-            "pays": "Madagascar",
-            "email": "jeanb@gmail.com"
-        },
-        {
-            "id": 3,
-            "name": "Lita kely ra zan",
-            "lastname": "Kelyb",
-            "dateBirth": "30/02/1940",
-            "mobile": "0322145780",
-            "rue": "Tana",
-            "ville": "Tana",
-            "pays": "Madagascar",
-            "email": "litakely1@gmail.com"
-        },
-        {
-            "id": 4,
-            "name": "Mahajanga gista",
-            "lastname": "Kelybe",
-            "dateBirth": "30/02/1991",
-            "mobile": "0332145780",
-            "rue": "Mahajanga",
-            "ville": "Tana",
-            "pays": "Mahajanga",
-            "email": "batoto@gmail.com"
-        },
-        {
-            "id": 5,
-            "name": "Mazia",
-            "lastname": "Kely",
-            "dateBirth": "30/02/1994",
-            "mobile": "0348145780",
-            "rue": "Tamatave",
-            "ville": "Tamatave",
-            "pays": "Madagascar",
-            "email": "mazia@gmail.com"
-        }
-    ],
-    "user": [
-        {
-            "id": 1,
-            "name": "Freddy",
-            "lastName": "Michel",
-            "email": "michelfreddy1992@gmail.com",
-            "role": "Admin",
-            "username": "admin",
-            "password": "Admin123"
-        },
-        {
-            "id": 2,
-            "name": "Michel",
-            "lastName": "Freddy",
-            "email": "michelfreddys@gmail.com",
-            "role": "Other",
-            "username": "Other",
-            "password": "Other123"
-        }
-    ],
-    "login": [
-        {
-            "email": "test@gmail.com",
-            "password": "Test@123",
-            "token": "bfdfsdfvsvfdsfdvfdvfs"
-        },
-        {
-            "email": "test123@gmail.com",
-            "password": "Test@123",
-            "token": "bfdfsdfvvcvsvfdsfdvfdvfs"
+            "voiture": "4010CEA Volvo",
+            "status": "A faire"
         }
     ]
 }
